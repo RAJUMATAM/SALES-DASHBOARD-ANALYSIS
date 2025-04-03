@@ -31,6 +31,8 @@ Analyze sales data to identify trends, optimize revenue generation, and improve 
 - Top Sales Cities: Madrid (1.08M), San Rafael (0.65M), NYC (0.56M)
 - Sales by Deal Size: Large deals contribute 60.68% of total sales
 - Seasonality: Sales peak in November, drop in June and July
+  
+![sales dashboard](https://github.com/user-attachments/assets/97ca7f9d-f831-4fba-9a9a-9731478748c7)
 
 ## KPI
 
